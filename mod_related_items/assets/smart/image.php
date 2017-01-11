@@ -34,9 +34,9 @@
 
 // (http://creativecommons.org/licenses/by-sa/3.0/us/). All I ask is that you include a link
 
-// back to Shifting Pixel (either this page or shiftingpixel.com), but don’t worry about
+// back to Shifting Pixel (either this page or shiftingpixel.com), but donâ€™t worry about
 
-// including a big link on each page if you don’t want to–one will do just nicely. Feel
+// including a big link on each page if you donâ€™t want toâ€“one will do just nicely. Feel
 
 // free to contact me to discuss any specifics (joe@shiftingpixel.com).
 
@@ -136,7 +136,7 @@ define('CURRENT_DIR',			dirname(__FILE__));
 
 define('CACHE_DIR_NAME',		'cache/');
 
-define('CACHE_DIR',				'../../../../../' . CACHE_DIR_NAME);
+define('CACHE_DIR',			'../../../../../../' . CACHE_DIR_NAME);
 
 define('DOCUMENT_ROOT',			$_SERVER['DOCUMENT_ROOT']);
 
@@ -822,6 +822,6 @@ function doConditionalGet($etag, $lastModified)
 
 
 
-// —Matsuo Basho
+// â€”Matsuo Basho
 
 ?>
